@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "My Yummy Health",
+    "slug": "My_Yummy_Health",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Yummy_icone2.png",
+    "splash": {
+      "image": "./assets/image_MyH_app2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.UniversiteDeParis.MyYummyHealth",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.UniversiteDeParis.MyYummyHealth",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
